@@ -20,21 +20,21 @@ Read the following for different requirements:
 
 - ### **Categories**
     Problems are grouped here by **type and topic** —  
-For example:  
+    For example:  
 
-- **Data Structures** (`arrays`, `linked-list`, `stack`, `tree`)  
-- **Algorithms** (`dp`, `greedy`, `backtracking`, `graph`)  
-- **Difficulty** (`easy`, `medium`, `hard`)  
+    - **Data Structures** (`arrays`, `linked-list`, `stack`, `tree`)  
+    - **Algorithms** (`dp`, `greedy`, `backtracking`, `graph`)  
+    - **Difficulty** (`easy`, `medium`, `hard`)  
 
 Browse categories to focus on the areas you want to practice, or see how my solutions evolve across different problem types.
 
 - ### **Tags**
-Tags let me annotate problems with more context.  
+    Tags let me annotate problems with more context.  
+    I’ll be using tags like:
 
-I’ll be using tags like:
-- **Source**: `leetcode`, `interview`, `custom`  
-- **Status**: `solved`, `still-solving`, `need-optimization`, `bruteforce`  
-- **Language**: `python`, `sql`, `cpp`  
+    - **Source**: `leetcode`, `interview`, `custom`  
+    - **Status**: `solved`, `still-solving`, `need-optimization`, `bruteforce`  
+    - **Language**: `python`, `sql`, `cpp`  
 
 This way, you can filter problems not only by what they are, but also by **where I found them** and **how far I’ve taken the solution**.
 
